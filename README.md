@@ -1,6 +1,6 @@
 # photo_search_app
 
-A new Flutter project.
+A flutter app to search the image according to your requirement. Pixabay Api  used to fetch the data using  path_provider library.
 
 ## Getting Started
 
