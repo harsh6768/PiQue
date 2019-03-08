@@ -1,3 +1,5 @@
+###
+#### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/pedromassango).Thanks!
 # photo_search_app
 
 A flutter app to search the image according to your requirement. Pixabay Api  used to fetch the data using  path_provider library.
